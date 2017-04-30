@@ -1,4 +1,4 @@
-# javafx_framefork
+# javafx marinare
 Framework for work with javaFX use html5 and css3 withn`t prefix -fx-.
 
 		//create browser
