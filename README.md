@@ -1,9 +1,9 @@
 # javafx_framefork
 Framework for work with javaFX use html5 and css3 withn`t prefix -fx-.
 
-//create browser
+		//create browser
 		CustomBrowser browser = new CustomBrowser();
-		browser.loadContent("<html><body><p>Пишем проги c помощью html5 и css3</p></body></html>");
+		browser.loadContent("<html><body><p>write PO with html5 and css3</p></body></html>");
 		browser.plugCSS("/style/main.css");
 
 		//link font and use in css
